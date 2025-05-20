@@ -1,6 +1,6 @@
 ## CustomerCashReturn
 
-A Java-based utility that calculates the optimal change (in bills and coins) to return to a customer after a purchase using `BigDecimal` for accuracy in monetary values.
+A Java-based utility that calculates the optimal change (in bills and coins) to return to a customer after a purchase using 'BigDecimal' for accuracy in monetary values.
 
 ---
 
